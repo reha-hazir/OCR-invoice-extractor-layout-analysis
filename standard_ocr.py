@@ -135,5 +135,3 @@ def process_all_invoices(folder_path, output_json='invoice_readability_results.j
 if __name__ == '__main__':
     invoice_folder = './invoice_data'
     process_all_invoices(invoice_folder)
-
-# python annotation_tool.py
